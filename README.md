@@ -10,4 +10,4 @@ kongruksiamstudio,Kong Ruksiam,<a href="kongruksiamstudio.com">kongruksiamstudio
 
 
 Copyright©2019 Bokie Tarathep<br>
-<a href="golang.org">golang.org</a>,licensed under the <a href="https://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</a>, and code is licensed under a <a href="https://golang.org/LICENSE">BSD license.</a>
+<a href="https://golang.org/">golang.org</a>,licensed under the <a href="https://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</a>, and code is licensed under a <a href="https://golang.org/LICENSE">BSD license.</a>
