@@ -1,5 +1,8 @@
 # GOLANG101
-Tutorial GO Language Basic programming
+### Tutorial GO Language Basic programming
+
+<img src="https://github.com/tarathep/golang101/blob/master/Capture_label.JPG?raw=true" width="50%">
+
 <br>Slide https://docs.google.com/presentation/d/10mTwRJYBzVpIOtzOmPwwNqIrjSwL_KvlWduC7E32JQA/edit?usp=sharing
 
 Credit<br>
